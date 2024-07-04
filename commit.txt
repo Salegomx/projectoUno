@@ -1,3 +1,33 @@
+commit 43b8a6f303a82edd7c9adb7c85ac7d3fef578420
+Author: Sergio Gómez <sergioagmoreno@gmail.com>
+Date:   Wed Jul 3 21:36:58 2024 -0500
+
+    agregue una imagen
+    
+    agruegue una imagen
+
+commit aab92c656e197ae0f0fe2b5b27cc0a312945be94
+Author: Sergio Gómez <sergioagmoreno@gmail.com>
+Date:   Wed Jul 3 21:36:01 2024 -0500
+
+    agregue un directorio de sass
+    
+    agregue un directorio de sass con un archivo scss
+
+commit a89d6904af9a7e2804160dc99c489e0d0af6cd5b
+Author: Sergio Gómez <sergioagmoreno@gmail.com>
+Date:   Wed Jul 3 21:34:45 2024 -0500
+
+    Agregue un archivo js
+    
+    Nuevo archivo con codigo JS
+
+commit dece77fa79f2633a1b291f4c7d98d17dd951f41b
+Author: Sergio Gómez <sergioagmoreno@gmail.com>
+Date:   Wed Jul 3 21:19:05 2024 -0500
+
+    cree un archivo con mis commits
+
 commit b9ce4ac35fef4acad9c842f214ee7a20611b711f
 Author: Sergio Gómez <sergioagmoreno@gmail.com>
 Date:   Wed Jul 3 21:16:24 2024 -0500
