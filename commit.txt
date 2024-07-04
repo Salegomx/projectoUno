@@ -1,0 +1,30 @@
+commit b9ce4ac35fef4acad9c842f214ee7a20611b711f
+Author: Sergio Gómez <sergioagmoreno@gmail.com>
+Date:   Wed Jul 3 21:16:24 2024 -0500
+
+    Cree un archivo de css y tambien modifique el html
+    
+    Hice un archivo con estilos y tambien agregue mas html an indice
+
+commit bf048c9e0d2da42096e7f92e2b0a983570abda41
+Merge: 47928dd 8038af3
+Author: Sergio Gómez <sergioagmoreno@gmail.com>
+Date:   Wed Jul 3 21:07:31 2024 -0500
+
+    Merge pull request #2 from Salegomx/rama2
+    
+    Cree un archivo html
+
+commit 8038af37bf477fad7785e26d9e7a7d755787d5f8
+Author: Sergio Gómez <sergioagmoreno@gmail.com>
+Date:   Wed Jul 3 21:05:49 2024 -0500
+
+    Cree un archivo html
+    
+    Es el archivo indice de mi proyecto
+
+commit 47928ddf3c4f9d435b2246cae00a27965d931101
+Author: Sergio Gómez <sergioagmoreno@gmail.com>
+Date:   Wed May 1 19:37:11 2024 -0500
+
+    Initial commit
